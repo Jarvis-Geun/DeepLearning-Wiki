@@ -13,8 +13,15 @@ Model : U-Net
 Reference : https://blog.jovian.ai/semantic-segmentation-in-self-driving-cars-3cb89aa08e9b <br/>
 Source code : https://jovian.ai/chakravarthy-sudharshan/semantic-segmentation-cityscapes/v/1?utm_source=embed
 
+My study blog
+* https://velog.io/@jarvis_geun/U-Net-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0in-depth
+* https://velog.io/@jarvis_geun/U-Net-%EC%8B%A4%EC%8A%B5
+
 ---
-### Transfer Learning_practice.ipynb
+### Transfer Learning_Pytorch.ipynb
 Model : Transfer Learning
 
-Reference : https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+Reference : https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html  
+My study blog : https://velog.io/@jarvis_geun/Transfer-Learning-%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5
+
+---
