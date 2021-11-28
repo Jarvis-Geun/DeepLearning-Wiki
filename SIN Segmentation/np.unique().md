@@ -449,5 +449,5 @@ np.set_printoptions(threshold=np.inf, linewidth=np.inf) #inf = infinity
 - `7 : [140, 140, 140]`
 - `8 : [160, 160, 160]`
 - `9 : [180, 180, 180]`
+- `0 : [200, 200, 200]`
 - `B : [220, 220, 220]`
-
