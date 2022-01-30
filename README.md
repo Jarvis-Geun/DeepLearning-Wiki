@@ -5,10 +5,11 @@
 <br>
 
 ---
+
 ### Semantic segmentation in Self-driving cars.ipynb
 > https://github.com/Jarvis-Geun/DeepLearning-Architecture/blob/main/Semantic%20Segmentation%20in%20Self-driving%20Cars.ipynb
 
-<br>
+---
 
 ### U-Net(Sementic Segmentation).ipynb
 
@@ -27,6 +28,7 @@ My study blog
 * https://velog.io/@jarvis_geun/U-Net-%EC%8B%A4%EC%8A%B5
 
 ---
+
 ### Transfer Learning_Pytorch.ipynb
 Transfer Learning
 
