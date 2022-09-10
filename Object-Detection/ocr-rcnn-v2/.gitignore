@@ -1,0 +1,10 @@
+**/.idea
+.idea/*
+*.tmp
+**/*.launch~
+**/*.srv~
+**/*.msg~
+*~
+*.pyc
+./frozen_model
+./frozen_model/*
