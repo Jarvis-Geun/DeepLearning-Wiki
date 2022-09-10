@@ -9,10 +9,10 @@
 - [labelImg](https://github.com/heartexlabs/labelImg) : Labeling Tool for Object Detection
 
 ### YOLOv5
-- [YOLOv5](https://github.com/Jarvis-Geun/DeepLearning-Wiki/tree/main/Object-Detection/yolov5) : 1-stage Object Detection
+- [YOLOv5](https://github.com/ultralytics/yolov5) : 1-stage Object Detection
 
 ### DETR
-- [DETR](https://github.com/Jarvis-Geun/DeepLearning-Wiki/tree/main/Object-Detection/detr) : Object Detection + Transformer
+- [DETR](https://github.com/facebookresearch/detr) : Object Detection + Transformer
 
 ### OCR-RCNN-V2
 - [[paper] OCR-RCNN: An Accurate and Efficient Framework for Elevator Button Recognition](https://ieeexplore.ieee.org/document/9324975)
