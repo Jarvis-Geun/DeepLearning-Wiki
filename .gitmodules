@@ -1,9 +1,0 @@
-[submodule "Object-Detection/ocr-rcnn-v2"]
-	path = Object-Detection/ocr-rcnn-v2
-	url = https://github.com/Jarvis-Geun/ocr-rcnn-v2
-[submodule "Object-Detection/yolov5"]
-	path = Object-Detection/yolov5
-	url = https://github.com/ultralytics/yolov5
-[submodule "Object-Detection/detr"]
-	path = Object-Detection/detr
-	url = https://github.com/facebookresearch/detr
