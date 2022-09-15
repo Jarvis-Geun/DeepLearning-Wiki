@@ -13,6 +13,7 @@
 
 ### DETR
 - [DETR](https://github.com/facebookresearch/detr) : Object Detection + Transformer
+- [DETR 코드리뷰](https://github.com/Jarvis-Geun/DeepLearning-Wiki/tree/main/Object-Detection/review-detr/README.md)
 
 ### OCR-RCNN-V2
 - [[paper] OCR-RCNN: An Accurate and Efficient Framework for Elevator Button Recognition](https://ieeexplore.ieee.org/document/9324975)
