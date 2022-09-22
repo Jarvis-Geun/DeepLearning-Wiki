@@ -1,6 +1,10 @@
 # Review DETR code
 ### Reference
 - [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+- [DETR Github](https://github.com/facebookresearch/detr)
+- [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
+- [어텐션 메커니즘과 transformer(self-attention)](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)
+- [Hugging Face - DETR](https://huggingface.co/docs/transformers/model_doc/detr)
 
 ## main(args)
 - [main(args)](https://github.com/facebookresearch/detr/blob/8a144f83a287f4d3fece4acdf073f387c5af387d/main.py#L105)
@@ -489,6 +493,9 @@ class Transformer(nn.Module):
                           pos=pos_embed, query_pos=query_embed)
         return hs.transpose(1, 2), memory.permute(1, 2, 0).view(bs, c, h, w)
 ```
+`tqt`를 `query_embed`와 동일한 크기로 만들되, 모든 값을 `0으로 초기화` 하여 encoder의 첫단에 들어가게 된다.
+
+- [Why use nn.Embedding for object query in the first decoder layer?](https://github.com/facebookresearch/detr/issues/225)
 
 <br>
 
