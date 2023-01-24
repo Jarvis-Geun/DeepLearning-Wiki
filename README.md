@@ -50,3 +50,9 @@
 - [[Blog] Transfer Learning(전이학습) 톺아보기](https://velog.io/@jarvis_geun/Transfer-Learning-%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5)
 
 <br>
+
+## XAI (Explanable AI)
+### SHAP (SHapley Additive exPlanation)
+- [Using SHAP Values to Explain How Your Machine Learning Model Works](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
+- [(Explainable AI) SHAP에 대해 알아보자!](https://moondol-ai.tistory.com/378)
+- 
