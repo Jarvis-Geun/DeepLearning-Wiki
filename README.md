@@ -53,6 +53,7 @@
 
 ## XAI (Explanable AI)
 ### SHAP (SHapley Additive exPlanation)
+- [SHAP practice with HTO custom dataset](https://github.com/Jarvis-Geun/DeepLearning-Wiki/tree/main/XAI/SHAP_HTO)
 - [Using SHAP Values to Explain How Your Machine Learning Model Works](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
 - [(Explainable AI) SHAP에 대해 알아보자!](https://moondol-ai.tistory.com/378)
-- 
+- [An Overview of Model-Agnostic Interpretation Methods](http://dmqm.korea.ac.kr/activity/seminar/297)
