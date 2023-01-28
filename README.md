@@ -45,6 +45,12 @@
 
 <br>
 
+## GNN (Graph Neural Network)
+### GCN
+- [GCNLayer.ipynb](https://github.com/Jarvis-Geun/DeepLearning-Wiki/tree/main/GNN/GCNLayer.ipynb)
+
+<br>
+
 ## Transfer Learning
 - [Transfer-Learning.ipynb](https://github.com/Jarvis-Geun/DeepLearning-Wiki/tree/main/Transfer-Learning/Transfer-Learning.ipynb)
 - [[Blog] Transfer Learning(전이학습) 톺아보기](https://velog.io/@jarvis_geun/Transfer-Learning-%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5)
